@@ -2,3 +2,4 @@ jupyter~=1.0
 radiant-mlhub~=0.3.0
 typing-extensions
 pandas~=1.2.0
+git+https://github.com/microsoft/torchgeo.git
